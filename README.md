@@ -102,9 +102,7 @@ Contraseña: admin
 
 ## 🧪 Base de Datos
 
-- Se usa **H2 en memoria**, por lo que los datos se reinician al cerrar la app.
-- La consola de H2 (si está habilitada) puede estar en:
-  ```http://localhost:8080/h2-console```
+- Se usa **SQLite**`
   
 ---
 
