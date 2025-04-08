@@ -39,10 +39,10 @@ O con Maven Wrapper (incluido):
 ./mvnw spring-boot:run
 ```
 
-### 3. Acceder a la aplicación
+### 3. Acceder a la aplicación y swagger
 
 ```text
-http://localhost:8080
+http://localhost:8080  , http://localhost:8080/swagger-ui/index.html#
 ```
 
 ---
